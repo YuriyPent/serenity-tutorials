@@ -1,5 +1,5 @@
 # Serenity BDD
 
-###Build project
+### Build project
 
 'mvn archetype:generate -Dfilter=serenity'
