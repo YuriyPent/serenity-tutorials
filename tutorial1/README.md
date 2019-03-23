@@ -1,1 +1,5 @@
-# HandsOn B.D.D. from scratch with Serenity and JBehave
+# Serenity BDD
+
+###Build project
+
+'mvn archetype:generate -Dfilter=serenity'
