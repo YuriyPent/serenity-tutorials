@@ -7,7 +7,7 @@ import net.serenitybdd.tutorials.model.Category;
 /**
  * Created by yurap on 23.03.2019.
  */
-public class CategoryNavigationBar extends PageObject{
+public class CategoryNavigationBar extends PageObject {
 
     public void selectCategory(Category category) {
 
